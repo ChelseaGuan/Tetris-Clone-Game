@@ -1,7 +1,7 @@
 # Tetris-Clone-Game
 
 ### About the Project
-This project is a 2D Tetris game built in Unity using C#.  
+This project is a 2D Tetris game built in Unity using C# and ASP.NET.  
 The GUI consists of three scenes: the game board interface, a main menu, and game over screen.  
 
 ### Controls
@@ -20,4 +20,3 @@ The GUI consists of three scenes: the game board interface, a main menu, and gam
 
 ### Demo
 The executable file TetrisClone.exe is found in src > Builds.
-
