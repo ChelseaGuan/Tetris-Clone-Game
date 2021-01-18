@@ -29,7 +29,7 @@ Note: The executable file TetrisClone.exe is found in src > Builds.
 ![Hold](images/Hold.gif)
   
 #### Part 3: Swap a Tetromino and Level Up
-Every 10 lines cleared leads to leveling up and increasing the speed of the fall of tetrominos.  
+Every ten lines cleared leads to leveling up and increasing the speed of the fall of tetrominos.  
 ![Swap and Level Up](images/SwapAndLevelUp.gif)
   
 #### Part 4: Game Over and Play Again
