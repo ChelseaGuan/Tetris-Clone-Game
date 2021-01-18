@@ -96,6 +96,7 @@ public class Tetromino : MonoBehaviour
                 FindObjectOfType<Game>().SpawnNextTetromino();
                 Game.currentScore += individualScore * Game.currentLevel;
                 enabled = false;
+                tag = "Untagged";
             }
             fall = Time.time;
         }
@@ -207,8 +208,6 @@ public class Tetromino : MonoBehaviour
                 }
             }
         }
-
-
 
     }
 
