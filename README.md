@@ -17,3 +17,7 @@ The GUI consists of three scenes: the game board interface, a main menu, and gam
 * Score: The player's current score is showned at the top of the game board. More points are awarded if lines are cleared and tetrominos are placed fast. 
 * Levels: The player may choose the level on the main menu, the higher the level, the faster the tetrominos fall, the more points are gained for each tetromino landed. The game also increases in difficulty as the user plays.
 * Hold: The player may choose to hold/save a tetromino. However, they can only swap in/out a tetromino a maximum of once per piece.
+
+### Demo
+The executable file TetrisClone.exe is found in src > Builds.
+
