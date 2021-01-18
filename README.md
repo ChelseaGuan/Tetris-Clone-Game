@@ -19,4 +19,6 @@ The GUI consists of three scenes: the game board interface, a main menu, and gam
 * Hold: The player may choose to hold/save a tetromino. However, they can only swap in/out a tetromino a maximum of once per piece.
 
 ### Demo
-The executable file TetrisClone.exe is found in src > Builds.
+Note: The executable file TetrisClone.exe is found in src > Builds.
+#### Part 1: Game start
+![Start](images/Start.gif)
