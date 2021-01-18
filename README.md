@@ -39,5 +39,5 @@ Every ten lines cleared leads to leveling up and increasing the speed of the fal
 ![Game Over and Play Again](images/GameOverAndPlayAgain.gif)
 
 ### Part 5: Choosing Level 10
-There is a noticeable difference in speed between level 1 and level 10
+There is a noticeable difference in speed of the falling tetromino between level 1 and level 10
 ![Level 10](images/Level10.gif)
