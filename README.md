@@ -19,6 +19,22 @@ The GUI consists of three scenes: the game board interface, a main menu, and gam
 * Hold: The player may choose to hold/save a tetromino. However, they can only swap in/out a tetromino a maximum of once per piece.
 
 ### Demo
-Note: The executable file TetrisClone.exe is found in src > Builds.
-#### Part 1: Game start
-![Start](images/Start.gif)
+  
+Note: The executable file TetrisClone.exe is found in src > Builds.  
+  
+#### Part 1: Game Start  
+![Game Start](images/GameStart.gif)
+  
+#### Part 2: Holding a Tetromino
+![Hold](images/Hold.gif)
+  
+#### Part 3: Swap a Tetromino and Level Up
+Every 10 lines cleared leads to leveling up and increasing the speed of the fall of tetrominos.  
+![Swap and Level Up](images/SwapAndLevelUp.gif)
+  
+#### Part 4: Game Over and Play Again
+![Game Over and Play Again](images/GameOverAndPlayAgain.gif)
+
+#### Part 5: Choosing Level 10
+There is a noticeable difference in speed between level 1 and level 10
+![Level 10](images/Level10.gif)
