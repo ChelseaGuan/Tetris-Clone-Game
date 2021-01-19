@@ -5,7 +5,7 @@ This is a 2D Tetris game clone.
 The GUI consists of three scenes: the game board interface, a main menu, and game over screen.  
 
 ### Development
-This project was built in Unity using C# and ASP.NET.  
+This project was built in Unity using C#.  
 
 ### Controls
 * Left arrow: Move a tetromino one space left
